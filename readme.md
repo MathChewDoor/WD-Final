@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/MathCHewDoor/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD_Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This is my Final Project
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=MathCHewDoor/WD-Finals)
 
 ---
 
@@ -55,22 +55,20 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+The project is a multi-page personal website showcasing my skills and portfolio as a web developer. Its purpose is to provide an interactive platform for visitors to explore my projects, view resume-like information, and navigate through an engaging overview of my abilities. Key components include distinct page designs, a project showcase with detailed descriptions and repository links, and a resume page highlighting skills and experience. The website utilizes pure HTML for structure, CSS for styling including libraries like Bootstrap for enhanced design, and JavaScript for interactive elements, ensuring a user-friendly experience.
+---
+### File Structure Explanation
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This file structure organizes a project named WD-Finals, likely a web development portfolio or personal website. The main directory includes an index.html file serving as the homepage and a readme.md file for project documentation. The "assets" folder contains subdirectories for CSS stylesheets, images (in various formats like JPEG, JPG, WebP, and PNG), and JavaScript scripts used across different pages. The "pages" directory houses distinct sections such as projects, resume, about, and contacts, each with their own index.html file and corresponding assets subfolders for styling, images, and scripts. This structure ensures a clean organization of files, facilitating easy navigation and maintenance of the website.
+---
 
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+### Project Repositories and Website Links
+
+- https://github.com/MathChewDoor/WD-SEATWORK-2-TC03 (website link: https://mathchewdoor.github.io/WD-SEATWORK-2-TC03/)
+- https://github.com/MathChewDoor/WD-Seatwork-3 (website link: https://mathchewdoor.github.io/WD-Seatwork-3/)
+- https://github.com/MathChewDoor/WD-Seatwork-4 (website link: https://mathchewdoor.github.io/WD-Seatwork-4/)
+---
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -87,10 +85,10 @@ Guiding Question:
    - ex.: buttonAnimatedStyle.css
 5. Use only `External CSS`.
 6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-7. File Structure to follow below.
+7. File Structure below.
 
 ```
-WD-ProjectName
+WD-Finals
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -99,7 +97,34 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+| |└─ projects
+| |   └─ assets
+| |   |  └─ css
+| |   |  |  └─ style.css
+| |   |  └─ img
+| |   |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+| |   |  └─ js
+| |   |     └─ script.js
+| |   └─ index.html
+| └─ resume
+| |   └─ assets
+| |   |  └─ css
+| |   |  |  └─ style.css
+| |   |  └─ img
+| |   |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+| |   |  └─ js
+| |   |     └─ script.js
+| |   └─ index.html
+| └─ about
+| |    └─ assets
+| |   |  └─ css
+| |   |  |  └─ style.css
+| |   |  └─ img
+| |   |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+| |   |  └─ js
+| |   |     └─ script.js
+| |   └─ index.html
+| └─ contacts
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -117,4 +142,10 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3Schools | Get some samples of layouts and designs | https://www.w3schools.com |
+| Github-Git-Guide | Used as guide for commit messages | https://github.com/zyx-0314/Github-Git-Guide |
+
+---
+
+### WakaTime Acc
+https://wakatime.com/@MathChewDoor
