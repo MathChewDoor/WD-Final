@@ -54,12 +54,12 @@
 ---
 
 ## Overview
-
-The project is a multi-page personal website showcasing my skills and portfolio as a web developer. Its purpose is to provide an interactive platform for visitors to explore my projects, view resume-like information, and navigate through an engaging overview of my abilities. Key components include distinct page designs, a project showcase with detailed descriptions and repository links, and a resume page highlighting skills and experience. The website utilizes pure HTML for structure, CSS for styling including libraries like Bootstrap for enhanced design, and JavaScript for interactive elements, ensuring a user-friendly experience.
+---
+The project is a personal website showcasing my web development skills and portfolio. It allows visitors to explore projects, view my resume, and learn about my abilities. Using HTML, CSS (including Bootstrap), and JavaScript ensures an engaging user experience.
 ---
 ### File Structure Explanation
 
-This file structure organizes a project named WD-Finals, likely a web development portfolio or personal website. The main directory includes an index.html file serving as the homepage and a readme.md file for project documentation. The "assets" folder contains subdirectories for CSS stylesheets, images (in various formats like JPEG, JPG, WebP, and PNG), and JavaScript scripts used across different pages. The "pages" directory houses distinct sections such as projects, resume, about, and contacts, each with their own index.html file and corresponding assets subfolders for styling, images, and scripts. This structure ensures a clean organization of files, facilitating easy navigation and maintenance of the website.
+The file structure for WD-Finals organizes a web development portfolio or personal website with an index.html homepage and readme.md documentation file. It includes an "assets" directory for CSS, image files (JPEG, JPG, WebP, PNG), and JavaScript, while the "pages" directory categorizes sections like projects, resume, about, and contacts, each with their own index.html and asset subfolders for streamlined navigation and maintenance.
 ---
 
 ### Project Repositories and Website Links
